@@ -1,4 +1,4 @@
-# midtermINF653  
+# Midterm Project INF653  
 INF 653VD Midterm Project  
 Student Name: Sharina Batista  
 Student ID: A0006154  
